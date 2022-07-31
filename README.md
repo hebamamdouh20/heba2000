@@ -18,7 +18,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="angularjs" alt="angularjs" width="40" height="40"/>nbsp;
-<img src="https://github.com/devicons/devicon/tree/master/icons/javascript" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/tree/master/icons/nodejs" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/tree/master/icons/mongodb" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/tree/master/icons/react" title="react" alt="react" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>nbsp;
