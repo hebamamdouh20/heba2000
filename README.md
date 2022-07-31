@@ -26,4 +26,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/> -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,js,jquery,ts,react,github,git,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,angular,react,github,git,nodejs,express,mongodb,netlify)](https://skillicons.dev)
