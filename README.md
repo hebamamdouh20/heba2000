@@ -32,3 +32,9 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,angular,react,github,git,nodejs,express,mongodb,netlify)](https://skillicons.dev)
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heba2000&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
