@@ -2,16 +2,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/hebamamdouh/">
+  <a href="https://www.linkedin.com/in/hebamamdouh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/heba.sallam.391">
+  <a href="https://www.facebook.com/heba.sallam.391" target="_blank">
     <img src="https://img.shields.io/badge/FaceBook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://twitter.com/hebamamdoh49">
+  <a href="https://twitter.com/hebamamdoh49" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 ---
 
 ### :woman_technologist: About Me :
