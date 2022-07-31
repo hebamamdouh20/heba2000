@@ -16,5 +16,8 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>nbsp;
+<img src="https://github.com/devicons/devicon/tree/master/icons/javascript" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/tree/master/icons/nodejs" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/tree/master/icons/mongodb" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/tree/master/icons/react" title="Java" alt="Java" width="40" height="40"/>&nbsp;
