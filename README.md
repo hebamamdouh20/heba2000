@@ -33,9 +33,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,angular,react,github,git,nodejs,express,mongodb,netlify)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heba2000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heba2000&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heba2000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
